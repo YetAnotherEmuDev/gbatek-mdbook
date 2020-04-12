@@ -1,3 +1,4 @@
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Consoles](./Consoles.md)
+- [GBA Technical Data](./GBA_Technical_Data.md)
