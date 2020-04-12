@@ -1,8 +1,8 @@
-name: publish mdBook to GitHub pages
+name: Build mdBook
 
 on:
   push:
-    branches: [ development ]
+    branches: [ master ]
 
 jobs:
   build:
@@ -23,5 +23,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: master
+          publish_branch: mdbook
           publish_dir: ./book
