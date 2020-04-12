@@ -1,4 +1,4 @@
-# GBA Technical Data
+# Technical Data
 
 ## CPU Modes
 
@@ -58,6 +58,9 @@ This manual does not describe CGB and DMG modes, both are completely different t
 
 ## Power Supply
 
-- Battery GBA: GBA: 2x1.5V DC (AA), Life-time approx. 15 hours
-- Battery SP: GBA SP: Built-in rechargeable Lithium ion battery, 3.7V 600mAh
-- External: GBA: 3.3V DC 350mA - GBA SP: 5.2V DC 320mA
+- Battery:
+    - GBA: 2x1.5V DC (AA), Life-time approx. 15 hours
+    - GBA SP: Built-in rechargeable Lithium ion battery, 3.7V 600mAh
+- External:
+    - GBA: 3.3V DC 350mA
+    - GBA SP: 5.2V DC 320mA
