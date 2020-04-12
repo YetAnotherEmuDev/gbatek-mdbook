@@ -4,3 +4,9 @@ language = "en"
 multilingual = false
 src = "src"
 title = "GBATEK test"
+
+[output.html]
+default-theme = "ayu"
+
+[output.html.fold]
+level = 1
